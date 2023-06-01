@@ -1,0 +1,21 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Home"
+
+[params]
+  isoCode = "en"
+  displayName = ":en:"
+  rtl = false
+  dateFormat = "2 January 2006"
+
+[author]
+  name = "Thibaut Dufour"
+  image = "img/profile.png"
+  headline = "Freelance Software Engineer"
+  bio = ""
+  links = [
+    # { email = "mailto:hello@example.com" },
+    { linkedin = "https://linkedin.com/in/thibdf" },
+    { github = "https://github.com/thibdf" },
+  ]

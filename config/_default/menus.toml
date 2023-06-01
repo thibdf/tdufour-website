@@ -1,0 +1,4 @@
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 20
