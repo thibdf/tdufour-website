@@ -1,7 +1,6 @@
 ---
 title: "My Resume"
 date: 2023-06-01T15:22:50+02:00
-draft: false
 ---
 
 ## Work Experiences
@@ -55,7 +54,7 @@ Work on a C++ GUI using the Qt Framework. The application was used to :
 - Process the data collected
 - Display the results
 
-**Skills:** C++ · Qt · Python (Programming Language) · MySQL · Git
+**Skills:** C++ · Qt · Python · MySQL · Git
 
 ---
 
