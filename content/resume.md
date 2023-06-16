@@ -7,7 +7,7 @@ date: 2023-06-01T15:22:50+02:00
 
 ### [2021-2023] Software Engineer
 
-[HR Team](https://www.hr-team.net/) - Consulting @ [Giphar Technologies](https://www.pharmaciengiphar.com/)
+*[HR Team](https://www.hr-team.net/) - Consulting @ [Giphar Technologies](https://www.pharmaciengiphar.com/)*
 
 Work on a Pharmacy Management Software :
 

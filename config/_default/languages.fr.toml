@@ -1,18 +1,18 @@
-languageCode = "en"
-languageName = "English"
-weight = 1
-title = "Home"
+languageCode = "fr"
+languageName = "Français"
+weight = 2
+title = "Accueil"
 
 [params]
-  isoCode = "en"
-  displayName = ":uk:"
+  isoCode = "fr"
+  displayName = ":fr:"
   rtl = false
   dateFormat = "2 January 2006"
 
 [author]
   name = "Thibaut Dufour"
   image = "img/profile.png"
-  headline = "Freelance Software Engineer"
+  headline = "Ingénieur Logiciel Freelance"
   bio = ""
   links = [
     { linkedin = "https://linkedin.com/in/thibdf" },
